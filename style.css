@@ -19,6 +19,7 @@
     font-style: normal;
 }
 @font-face {
+<<<<<<< HEAD
     font-family: 'economicabold_italic';
     src: url('economica-bolditalic-otf-webfont.eot');
     src: url('economica-bolditalic-otf-webfont.eot?#iefix') format('embedded-opentype'),
@@ -41,6 +42,8 @@
     font-style: normal;
 }
 @font-face {
+=======
+>>>>>>> ec6064606075f5d84c759368781c19688a1ed476
     font-family: 'economicaregular';
     src: url('economica-regular-otf-webfont.eot');
     src: url('economica-regular-otf-webfont.eot?#iefix') format('embedded-opentype'),
